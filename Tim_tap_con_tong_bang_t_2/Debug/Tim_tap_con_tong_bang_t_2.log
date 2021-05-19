@@ -1,0 +1,13 @@
+﻿  3-2.cpp
+D:\2 Phân tích và thiết kế giải thuật\Backtracking\Tim_tap_con_tong_bang_t_2\3-2.cpp(57,16): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\2 Phân tích và thiết kế giải thuật\Backtracking\Tim_tap_con_tong_bang_t_2\3-2.cpp(59,12): warning C4244: '=': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\2 Phân tích và thiết kế giải thuật\Backtracking\Tim_tap_con_tong_bang_t_2\3-2.cpp(76,25): warning C4018: '<': signed/unsigned mismatch
+  Tim_tap_con_tong_bang_t_2.vcxproj -> D:\2 Phân tích và thiết kế giải thuật\Backtracking\Debug\Tim_tap_con_tong_bang_t_2.exe
